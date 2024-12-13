@@ -1,0 +1,15 @@
+C:\Users\acces\Documents\dam2\PSP\PSP02_01hilos\bin\Debug\net8.0\PSP02_01hilos.exe
+C:\Users\acces\Documents\dam2\PSP\PSP02_01hilos\bin\Debug\net8.0\PSP02_01hilos.deps.json
+C:\Users\acces\Documents\dam2\PSP\PSP02_01hilos\bin\Debug\net8.0\PSP02_01hilos.runtimeconfig.json
+C:\Users\acces\Documents\dam2\PSP\PSP02_01hilos\bin\Debug\net8.0\PSP02_01hilos.dll
+C:\Users\acces\Documents\dam2\PSP\PSP02_01hilos\bin\Debug\net8.0\PSP02_01hilos.pdb
+C:\Users\acces\Documents\dam2\PSP\PSP02_01hilos\obj\Debug\net8.0\PSP02_01hilos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acces\Documents\dam2\PSP\PSP02_01hilos\obj\Debug\net8.0\PSP02_01hilos.AssemblyInfoInputs.cache
+C:\Users\acces\Documents\dam2\PSP\PSP02_01hilos\obj\Debug\net8.0\PSP02_01hilos.AssemblyInfo.cs
+C:\Users\acces\Documents\dam2\PSP\PSP02_01hilos\obj\Debug\net8.0\PSP02_01hilos.csproj.CoreCompileInputs.cache
+C:\Users\acces\Documents\dam2\PSP\PSP02_01hilos\obj\Debug\net8.0\PSP02_01hilos.sourcelink.json
+C:\Users\acces\Documents\dam2\PSP\PSP02_01hilos\obj\Debug\net8.0\PSP02_01hilos.dll
+C:\Users\acces\Documents\dam2\PSP\PSP02_01hilos\obj\Debug\net8.0\refint\PSP02_01hilos.dll
+C:\Users\acces\Documents\dam2\PSP\PSP02_01hilos\obj\Debug\net8.0\PSP02_01hilos.pdb
+C:\Users\acces\Documents\dam2\PSP\PSP02_01hilos\obj\Debug\net8.0\PSP02_01hilos.genruntimeconfig.cache
+C:\Users\acces\Documents\dam2\PSP\PSP02_01hilos\obj\Debug\net8.0\ref\PSP02_01hilos.dll
