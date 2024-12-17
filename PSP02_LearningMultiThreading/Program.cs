@@ -1,36 +1,13 @@
-﻿string finished = "";
-bool foundOut = false;
+﻿using PSP02_LearningMultiThreading.LearningFiles;
 
-Thread t1 = new Thread(WriteY); // Kick off a new thread
-Thread t2 = new Thread(WriteX); // Kick off a new thread
-t1.Start(); // running WriteY()
-t2.Start(); // running WriteX()
 
-while (finished.Length == 0)
-{
-    
-}
+Action finalizar = () => { Console.WriteLine("Suscriptor A"); };
+finalizar += () => { Console.WriteLine("Suscriptor B"); };
 
-Console.WriteLine();
-foundOut = true;
-Console.WriteLine($"\nHa ganado {finished}");
+MyThread t1 = new MyThread("x", ref finalizar);
+MyThread t2 = new MyThread("y", ref finalizar);
 
-void WriteY()
-{
-    WriteText("Y");
-}
+finalizar += () => { Console.WriteLine("Suscriptor C"); };
 
-void WriteX()
-{
-    WriteText("X");
-}
-
-void WriteText(string text)
-{
-    for (int i = 0; i < 1000 && finished == ""; i++) Console.Write(text);
-    if (finished == "") finished = text;
-    while (!foundOut)
-    {
-        Console.Write(text);
-    }
-}
+t1.Start();
+t2.Start();
