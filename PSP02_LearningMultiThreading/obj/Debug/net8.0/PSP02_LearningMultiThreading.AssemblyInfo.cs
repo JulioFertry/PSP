@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("PSP02_01hilos")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("PSP02_LearningMultiThreading")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35c3ca2ae68857efd708da232313eb352ad9ac27")]
-[assembly: System.Reflection.AssemblyProductAttribute("PSP02_01hilos")]
-[assembly: System.Reflection.AssemblyTitleAttribute("PSP02_01hilos")]
+[assembly: System.Reflection.AssemblyProductAttribute("PSP02_LearningMultiThreading")]
+[assembly: System.Reflection.AssemblyTitleAttribute("PSP02_LearningMultiThreading")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

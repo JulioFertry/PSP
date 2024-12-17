@@ -1,0 +1,15 @@
+C:\Users\acces\Documents\dam2\PSP\PSP02_LearningMultiThreading\bin\Debug\net8.0\PSP02_LearningMultiThreading.exe
+C:\Users\acces\Documents\dam2\PSP\PSP02_LearningMultiThreading\bin\Debug\net8.0\PSP02_LearningMultiThreading.deps.json
+C:\Users\acces\Documents\dam2\PSP\PSP02_LearningMultiThreading\bin\Debug\net8.0\PSP02_LearningMultiThreading.runtimeconfig.json
+C:\Users\acces\Documents\dam2\PSP\PSP02_LearningMultiThreading\bin\Debug\net8.0\PSP02_LearningMultiThreading.dll
+C:\Users\acces\Documents\dam2\PSP\PSP02_LearningMultiThreading\bin\Debug\net8.0\PSP02_LearningMultiThreading.pdb
+C:\Users\acces\Documents\dam2\PSP\PSP02_LearningMultiThreading\obj\Debug\net8.0\PSP02_LearningMultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acces\Documents\dam2\PSP\PSP02_LearningMultiThreading\obj\Debug\net8.0\PSP02_LearningMultiThreading.AssemblyInfoInputs.cache
+C:\Users\acces\Documents\dam2\PSP\PSP02_LearningMultiThreading\obj\Debug\net8.0\PSP02_LearningMultiThreading.AssemblyInfo.cs
+C:\Users\acces\Documents\dam2\PSP\PSP02_LearningMultiThreading\obj\Debug\net8.0\PSP02_LearningMultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\acces\Documents\dam2\PSP\PSP02_LearningMultiThreading\obj\Debug\net8.0\PSP02_LearningMultiThreading.sourcelink.json
+C:\Users\acces\Documents\dam2\PSP\PSP02_LearningMultiThreading\obj\Debug\net8.0\PSP02_LearningMultiThreading.dll
+C:\Users\acces\Documents\dam2\PSP\PSP02_LearningMultiThreading\obj\Debug\net8.0\refint\PSP02_LearningMultiThreading.dll
+C:\Users\acces\Documents\dam2\PSP\PSP02_LearningMultiThreading\obj\Debug\net8.0\PSP02_LearningMultiThreading.pdb
+C:\Users\acces\Documents\dam2\PSP\PSP02_LearningMultiThreading\obj\Debug\net8.0\PSP02_LearningMultiThreading.genruntimeconfig.cache
+C:\Users\acces\Documents\dam2\PSP\PSP02_LearningMultiThreading\obj\Debug\net8.0\ref\PSP02_LearningMultiThreading.dll
