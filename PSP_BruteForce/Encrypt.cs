@@ -14,13 +14,13 @@ public class Encrypt
             string filePath = "password.txt";
             if (!File.Exists(filePath))
             {
-                Console.WriteLine("El archivo password.txt no se encuentra");
+                throw new FileNotFoundException("El archivo password.txt no se encuentra");
             }
 
             string[] passwords = File.ReadAllLines(filePath);
             if (passwords.Length == 0)
             {
-                Console.WriteLine("El archivo password.txt no tiene nada");
+                throw new Exception("El archivo password.txt está vacío");
             }
             
             Random random = new Random();
@@ -39,7 +39,7 @@ public class Encrypt
     }
     
     
-    private static string ComputeHash(string input)
+    public static string ComputeHash(string input)
     {
         using (SHA256 sha256 = SHA256.Create())
         {
