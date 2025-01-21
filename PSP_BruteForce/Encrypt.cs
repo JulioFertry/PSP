@@ -11,16 +11,16 @@ public class Encrypt
     {
         try
         {
-            string filePath = "password.txt";
+            string filePath = "../../../passwords.txt";
             if (!File.Exists(filePath))
             {
-                throw new FileNotFoundException("El archivo password.txt no se encuentra");
+                throw new FileNotFoundException("El archivo passwords.txt no se encuentra");
             }
 
             string[] passwords = File.ReadAllLines(filePath);
             if (passwords.Length == 0)
             {
-                throw new Exception("El archivo password.txt está vacío");
+                throw new Exception("El archivo passwords.txt está vacío");
             }
             
             Random random = new Random();

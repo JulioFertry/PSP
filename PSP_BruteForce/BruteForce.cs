@@ -10,7 +10,7 @@ public class BruteForce
     {
         if (!File.Exists(filePath))
         {
-            throw new FileNotFoundException("El archivo password.txt no se encuentra");
+            throw new FileNotFoundException("El archivo passwords.txt no se encuentra");
         }
         
         string[] passwords = File.ReadAllLines(filePath);
